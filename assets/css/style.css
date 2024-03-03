@@ -1,0 +1,27 @@
+nav{
+    background-color: grey;
+    padding: 20px 100px;
+    text-align: lefts;
+}
+
+body{
+    text-align: center;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: antiquewhite;
+}
+
+.card {
+    background-color: bisque;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.chart-container {
+    width: 300px;
+  }
+
